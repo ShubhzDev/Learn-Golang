@@ -1,4 +1,4 @@
-module github/ShubhzDev/Golang-Learn/Day-2/hello
+module github.com/ShubhzDev/Learn-Golang/Day-2
 
 go 1.22.4
 
